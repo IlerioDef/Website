@@ -7,3 +7,5 @@ VAL_NM_RQ = unique currency code used by Central Bank
 """
 cbr = requests.get(test_url)
 print(cbr)
+
+##### https://cbr.ru/scripts/XML_val.asp?d=0 - currency codes
